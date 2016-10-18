@@ -1,6 +1,6 @@
 <h1><?php echo $title ?></h1>
 
 <?php
-echo 'hello first view';
+echo 'hello test anamai view';
 
 ?>
